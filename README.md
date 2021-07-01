@@ -7,7 +7,7 @@ This neural network architecture is especially designed to deal with severe defo
 
 **The detailed architecture of the CPF and SFF modules of AdaptNet:**
 
-<img src="./Network-Architecture-Images/BD8.png" alt="The detailed architecture of the CPF and SFF modules of AdaptNet." width="700">
+<img src="./Network-Architecture-Images/CPF-SSF.png" alt="The detailed architecture of the CPF and SFF modules of AdaptNet." width="700">
 
 ## Citation
 If you use AdaptNet for your research, please cite our paper:
