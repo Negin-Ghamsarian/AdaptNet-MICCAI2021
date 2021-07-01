@@ -9,6 +9,7 @@ This neural network architecture is especially designed to deal with severe defo
 ## Citation
 If you use AdaptNet for your research, please cite our paper:
 
+```
 @INPROCEEDINGS{LensID,
   author={N. {Ghamsarian} and M. {Taschwer} and D. {Putzgruber-Adamitsch} and S. {Sarny} and Y. {El-Shabrawi} and K. {Schoeffmann}},
   booktitle={24th International Conference on Medical Image Computing \& Computer Assisted Interventions (MICCAI 2021)}, 
@@ -17,3 +18,4 @@ If you use AdaptNet for your research, please cite our paper:
   volume={},
   number={},
   pages={to appear},}
+```
