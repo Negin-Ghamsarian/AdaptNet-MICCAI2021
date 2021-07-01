@@ -5,7 +5,7 @@ AdaptNet is initially proposed for semantic segmentation in cataract surgery vid
 
 This neural network architecture is especially designed to deal with severe deformations and scale variations by fusing sequential and parallel feature maps adaptively.
 
-<img src="./Network-Architecture-Images/BD8.png">
+<img src="./Network-Architecture-Images/BD8.png" alt="The detailed architecture of the \textit{CPF} and \textit{SFF} modules of AdaptNet." width="500" height="600">
 
 ## Citation
 If you use AdaptNet for your research, please cite our paper:
