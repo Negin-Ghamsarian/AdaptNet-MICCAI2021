@@ -19,3 +19,7 @@ If you use AdaptNet for your research, please cite our paper:
   number={},
   pages={to appear},}
 ```
+
+## Acknowledgments
+
+This work was funded by the FWF Austrian Science Fund under grant P 31486-N31.
