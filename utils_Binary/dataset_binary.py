@@ -1,3 +1,6 @@
+"""
+@author: Negin Ghamsarian
+"""
 
 import os
 from os.path import splitext
