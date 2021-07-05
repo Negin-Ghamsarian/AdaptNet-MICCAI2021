@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 22 13:11:39 2020
+@author: Negin Ghamsarian
 
-@author: Negin
 """
 
 import torch
