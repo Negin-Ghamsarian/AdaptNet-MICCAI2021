@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 24 16:39:03 2020
+@author: Negin Ghamsarian
 
-@author: Negin
 """
 
 
